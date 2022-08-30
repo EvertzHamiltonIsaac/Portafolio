@@ -15,7 +15,6 @@ const swiper = new Swiper('.swiper', {
         360:{
             slidesPerView: 2.5,
             spaceBetween: 10,
-            loop: true
         },
         // when window width is >= 480px
         480: {
